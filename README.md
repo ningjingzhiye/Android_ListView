@@ -228,5 +228,18 @@ protected void onCreate(Bundle savedInstanceState) {
     });
 }
 ```
+# 运行截图
+
+* MainActivity：
+
+![](./imgs/01.png)
+
+* MyListView:
+
+![](./imgs/02.png)
+
+* MyListView删除item:
+
+![](./imgs/03.png)
 
 ---
